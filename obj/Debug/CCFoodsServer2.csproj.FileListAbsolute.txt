@@ -47,3 +47,17 @@ C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFo
 C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\EntityFramework.SqlServer.dll
 C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\EntityFramework.xml
 C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\EntityFramework.SqlServer.xml
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\csc.exe
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\vbc.exe
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Everton\Documents\GitHub\xamarin-casa-do-codigo\capitulo 06 - base\CCFoodsServer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
